@@ -15,7 +15,7 @@ sources:
 
 # Kasim Aslam: Second Brain (Root Map)
 
-Start here. Every top-level folder is listed with what lives inside it.
+Start here. New to this? Read [[how-to-use-your-second-brain]] first. Every top-level folder is listed with what lives inside it.
 
 ## Contents
 - [[00-CONTEXT/_MOC]]: who Kasim is, current focus, jargon, morning brief, standards

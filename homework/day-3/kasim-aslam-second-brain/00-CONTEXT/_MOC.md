@@ -18,6 +18,7 @@ sources:
 The foundation files. Read these first in any new session.
 
 ## Contents
+- [[how-to-use-your-second-brain]]: start here, the quick guide for Kasim
 - [[identity]]: who Kasim is: roles, companies, background, worldview
 - [[current-focus]]: what matters in the next 12 months
 - [[offers-and-pricing]]: everything Kasim/his companies sell, with prices
