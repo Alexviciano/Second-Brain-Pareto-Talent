@@ -46,7 +46,7 @@ sources:
 | #F4F4F4 sobre #544541 | 8.3:1 | ✅ texto normal |
 | #F4F4F4 sobre #745E59 | 5.5:1 | ✅ texto normal |
 
-**Regla práctica:** el texto va en `#544541` o `#49301E` sobre `#F4F4F4`. Sobre el beige `#C3AE93`, usá el marrón más oscuro y un tamaño grande. `#51413E` y `#544541` son casi iguales, así que alcanza con elegir uno para el cuerpo del texto.
+**Regla práctica:** sobre `#F4F4F4` se pueden usar todos los marrones. Sobre el beige `#C3AE93`, el texto normal va solo en `#49301E`, `#544541` solo sirve para títulos grandes y `#745E59` no se usa para texto. `#51413E` y `#544541` son casi iguales, así que alcanza con elegir uno para el cuerpo del texto.
 
 ### Pendiente
 - Color de **las hojas del fondo**: no está en esta paleta (probablemente es parte de una imagen). [a completar]
