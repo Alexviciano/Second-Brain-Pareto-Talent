@@ -49,7 +49,7 @@ sources:
 **Regla práctica:** sobre `#F4F4F4` se pueden usar todos los marrones. Sobre el beige `#C3AE93`, el texto normal va solo en `#49301E`, `#544541` solo sirve para títulos grandes y `#745E59` no se usa para texto. `#51413E` y `#544541` son casi iguales, así que alcanza con elegir uno para el cuerpo del texto.
 
 ### Recursos visuales (revisados en Canva, solo lectura, 2026-09-25)
-- **"Las hojas":** no son un color plano. Son **fotos recortadas de flores y hojas secas** (tallos, pétalos marchitos, hojas curvadas) en tonos marrón, malva y sepia. Se usan en las esquinas de las slides, sobre el fondo beige. Aparecen en las slides 3, 8 y 2.
+- **"Las hojas":** no son un color plano. Son **fotos recortadas de flores y hojas secas** (tallos, pétalos marchitos, hojas curvadas) en tonos marrón, malva y sepia. Se usan en las esquinas de las slides, sobre el fondo beige. Aparecen en las slides 3 y 8.
 - **Fotografía:** frascos de vidrio ámbar; sombras de una mano sosteniendo el frasco sobre lino; flat lays de materias primas (cítricos, especias, algodón, madera); texturas de seda, piedra y corteza. Luz cálida y natural.
 - **Tipografías (3 estilos; los nombres exactos están por confirmar en Canva):**
   1. **Script manuscrita** para el logo "Cony's Home" (portada)
