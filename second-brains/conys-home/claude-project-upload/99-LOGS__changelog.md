@@ -17,3 +17,4 @@ sources:
 - 2026-09-25: Cerebro creado a partir del export de Instagram, los apuntes de la reunión y la presentación de Alex. Las notas de voz quedan pendientes.
 - 2026-09-25: Notas de voz procesadas. Voz de Patricia completada (argentina, rioplatense). Nuevas notas: identidad visual, fotógrafa recomendada y la decisión de estética aprobada.
 - 2026-09-25: Dudas resueltas: cámara (ocasional), neurociencia (confirmado), Pol French Gallery = competidor en Palermo Soho. Nueva nota: competencia.
+- 2026-09-25: Paleta de colores (6 HEX) agregada a identidad-visual, con tabla de contraste.
