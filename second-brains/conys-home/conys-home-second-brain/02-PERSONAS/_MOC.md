@@ -24,4 +24,5 @@ Una nota por persona o marca aliada.
 - [[sol-gales]]: ceramista, flores aromáticas
 - [[punto-vinos]]: vinos, experiencia conjunta (con Wine Experts)
 - [[lab-essence]]: marca de ropa, aroma Higo Dulce
+- [[fotografa-recomendada]]: fotógrafa recomendada por las chicas de las joyas (pendiente)
 - [[_plantilla]]: plantilla para una persona nueva

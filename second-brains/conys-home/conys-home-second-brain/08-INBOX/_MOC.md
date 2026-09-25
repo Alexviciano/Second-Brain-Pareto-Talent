@@ -18,4 +18,4 @@ sources:
 Material que todavía no se procesó.
 
 ## Contenido
-- [[notas-de-voz-pendientes]]: 2 audios de Patricia
+- (vacío por ahora)

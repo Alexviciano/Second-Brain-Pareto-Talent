@@ -19,4 +19,4 @@ Reuniones y notas de voz procesadas.
 
 ## Contenido
 - [[reunion-patricia-apuntes]]: reunión con Patricia: aromas, historia, experiencias
-- [[notas-de-voz-pendientes]]: 2 notas de voz de WhatsApp por transcribir
+- [[notas-de-voz-2026-09]]: notas de voz de Patricia (fotógrafa, guion de la experiencia, identidad visual)

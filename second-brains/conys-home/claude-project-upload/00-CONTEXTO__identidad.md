@@ -29,7 +29,7 @@ sources:
 | Nombre | Cony's Home ("Cony´s home • Aromas") | Instagram |
 | Instagram | [@conys.home](https://www.instagram.com/conys.home/) | Instagram |
 | Bajada | Laboratorio de aromas | Presentación |
-| Creadora / dueña | [[patricia|Patricia]] (apellido [a completar]) | Alex; comentario "HOLA PATRI!" |
+| Creadora / dueña | [[patricia|Patricia]], argentina (apellido [a completar]) | Alex; comentario "HOLA PATRI!" |
 | Atelier | [[atelier-la-edina|La Edina]], Armenia 1455, atelier 6, Palermo Soho, CABA | Instagram |
 | En el atelier desde | Agosto 2025 | Instagram 2025-08-09 |
 | Diferencial | Base científica + artesanía + 100 % natural + aromas con historia | Presentación, apuntes |

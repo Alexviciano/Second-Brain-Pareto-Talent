@@ -20,4 +20,4 @@ sources:
 | Instagram @conys.home (40 posts, export 2026-09) | productos, eventos, aliados, voz de marca, auditoría |
 | Apuntes reunión con Patricia (Alex) | historia, voz de Patricia, experiencias, aromas |
 | Presentación de Alex para Cony's Home | foco, estrategia digital, tienda online, ideas |
-| Notas de voz de WhatsApp 2026-09-18 y 2026-09-24 (sin transcribir) | pendiente |
+| Notas de voz de Patricia (transcritas, sep 2026) | voz de Patricia, pendientes, identidad visual |

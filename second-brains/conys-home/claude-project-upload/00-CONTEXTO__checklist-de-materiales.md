@@ -21,7 +21,9 @@ Todo entra **a través de Claude** ("procesá esto y guardalo en el segundo cere
 - [x] Export de Instagram (40 posteos)
 - [x] Apuntes de la reunión con Patricia
 - [x] Presentación de estrategia de Alex
-- [ ] **Transcribir las 2 notas de voz de WhatsApp** (18/09 y 24/09) → `07-REUNIONES/`, `voz-de-patricia`
+- [x] Notas de voz de WhatsApp transcritas → `07-REUNIONES/notas-de-voz-2026-09`
+- [ ] Guion de la experiencia (Patricia lo está escribiendo)
+- [ ] Paleta de colores (HEX) de la presentación → `03-MARKETING/identidad-visual`
 - [ ] Lista de precios actual → `productos-y-precios`
 - [ ] Lista completa de aromas, con nombre, descripción y recuerdo → `01-MARCA/catalogo-de-aromas`
 

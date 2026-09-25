@@ -29,6 +29,9 @@ sources:
 - **No se puede hacer rápido:** no se puede crear un aroma en el momento.
 - **Pequeños regalos** para quienes vienen.
 
+## Estado (sep 2026)
+Patricia está reescribiendo el **guion (libreto) de su experiencia** y se lo va a mandar a Alex para revisar la comunicación. Ver [[notas-de-voz-2026-09]].
+
 ## Lo que ya se hizo
 - [[punto-vinos-experiencia-2025-09|Experiencia con Punto Vinos + Wine Experts]]: crear tu propio perfume inspirado en el vino.
 - [[taller-de-velas-2025-11|Primer taller de velas]] (nov 2025).

@@ -5,7 +5,7 @@ created: 2026-09-25
 updated: 2026-09-25
 status: active
 audience: patricia, alex
-confidence: likely
+confidence: confirmed
 tags: [voz, patricia]
 related:
   - "[[patricia]]"
@@ -14,12 +14,12 @@ related:
 sources:
   - Apuntes reunión con Patricia (Alex)
   - Instagram @conys.home (40 posts, export 2026-09)
-  - Notas de voz de WhatsApp 2026-09-18 y 2026-09-24 (sin transcribir)
+  - Notas de voz de Patricia (transcritas, sep 2026)
 ---
 
 # Voz de Patricia
 
-> Primer borrador: sale de las notas de la reunión y de los posteos. **Hay que completarlo con las transcripciones de sus notas de voz**, que son la mejor muestra de cómo habla.
+> Sale de las notas de la reunión, los posteos y **sus notas de voz transcritas** (sep 2026). Patricia es **argentina** y habla en español rioplatense.
 
 ## Cómo piensa
 - **Mezcla ciencia y emoción:** explica cómo el cerebro capta un aroma y, en la misma frase, a qué recuerdo te lleva.
@@ -34,11 +34,24 @@ sources:
 - Su madre le decía **"ratoncito"**, porque lo olía todo.
 - "La casita" es porque viene de vivir en el campo.
 
-## Estilo al hablar / escribir
+## Cómo habla (de sus notas de voz)
+- **Rioplatense y coloquial:** voseo ("lo que vos me presentaste", "vos consideres"), "tranqui", "dale", "buenísimo, buenísimo", "recontra sincera".
+- **Muletillas:** "este...", "digamos", "bueno", "o sea", "es como que". Frases largas que se van hilando, con correcciones sobre la marcha.
+- **Cálida y afectuosa:** "te mando un beso grande", "me enamoré de lo que me presentaste", "ya veo que vamos a hacer algo juntas".
+- **Honesta y sin vueltas:** "te voy a ser recontra sincera".
+- **Abierta a opiniones:** "acepto opiniones de lo que vos consideres que podríamos cambiar".
+- **Sin presión:** "tranqui, es un trabajo así, tranquilo".
+- **Valora el trabajo cuidado:** describe a la fotógrafa recomendada como "muy consciente, muy cuidado, súper prolijo, y muy a lo que ellas querían".
+
+## Cómo escribe la marca cuando habla ella
 - Cálida y agradecida ("GRACIAS", "tan significativo para nosotras").
 - Usa "nosotras" aunque hable de sí misma.
 - Cierres emotivos y puntos suspensivos.
-- Cómo habla (muletillas, ritmo, vocabulario): [a completar con las notas de voz].
+
+## Para escribir como Patricia
+- **Textos para redes o la web:** la versión cuidada de su voz. Cálida, con recuerdos y "vos", sin las muletillas.
+- **Mensajes informales (WhatsApp, respuestas a clientes):** se pueden incluir sus giros ("dale", "tranqui", "un beso grande").
+- **Evitar:** el español neutro o de España ("vosotros", "tú"), un tono corporativo o frío.
 
 ## Dudas abiertas
 - ¿Quiere mostrar su cara / su imagen en redes? La nota dice "No quiere he de Mar su imagen" y es ambigua: [a confirmar].

@@ -6,7 +6,7 @@ updated: 2026-09-25
 status: active
 audience: patricia, alex
 confidence: confirmed
-relacion: colaborador
+relacion: equipo-digital
 instagram: ""
 tags: [persona, colaborador]
 related:

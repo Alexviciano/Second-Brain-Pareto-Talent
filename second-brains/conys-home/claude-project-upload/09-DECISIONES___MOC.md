@@ -15,7 +15,7 @@ sources:
 
 # 09 Decisiones
 
-Decisiones con fecha y motivo. Vacío por ahora.
+Decisiones con fecha y motivo.
 
 ## Contenido
-- (vacío por ahora)
+- [[2026-09-identidad-visual-aprobada]]: se aprueba la estética de la presentación de Alex
