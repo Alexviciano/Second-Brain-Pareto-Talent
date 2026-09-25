@@ -48,9 +48,18 @@ sources:
 
 **Regla práctica:** sobre `#F4F4F4` se pueden usar todos los marrones. Sobre el beige `#C3AE93`, el texto normal va solo en `#49301E`, `#544541` solo sirve para títulos grandes y `#745E59` no se usa para texto. `#51413E` y `#544541` son casi iguales, así que alcanza con elegir uno para el cuerpo del texto.
 
+### Recursos visuales (revisados en Canva, solo lectura, 2026-09-25)
+- **"Las hojas":** no son un color plano. Son **fotos recortadas de flores y hojas secas** (tallos, pétalos marchitos, hojas curvadas) en tonos marrón, malva y sepia. Se usan en las esquinas de las slides, sobre el fondo beige. Aparecen en las slides 3, 8 y 2.
+- **Fotografía:** frascos de vidrio ámbar; sombras de una mano sosteniendo el frasco sobre lino; flat lays de materias primas (cítricos, especias, algodón, madera); texturas de seda, piedra y corteza. Luz cálida y natural.
+- **Tipografías (3 estilos; los nombres exactos están por confirmar en Canva):**
+  1. **Script manuscrita** para el logo "Cony's Home" (portada)
+  2. **Sans serif geométrica en mayúsculas con mucho espaciado** para títulos y texto (parecida a Montserrat)
+  3. **Serif tipo máquina de escribir** para frases destacadas ("NO VENDER SOLAMENTE UNA VELA…")
+- **Ícono:** una casita con ramas (esquina de la portada).
+
 ### Pendiente
-- Color de **las hojas del fondo**: no está en esta paleta (probablemente es parte de una imagen). [a completar]
-- Tipografías de la presentación: [a completar]
+- Confirmar los nombres de las 3 tipografías (en Canva: hacer clic en el texto y leer el nombre en la barra de arriba)
+- Ojo: la slide 2 dice "CONTRUYEDO"; debería decir "CONSTRUYENDO".
 
 ## Aprobado por Patricia (sep 2026)
 Patricia se "enamoró" de la estética de la presentación de Alex:
