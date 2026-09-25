@@ -38,5 +38,8 @@ sources:
 | Historia | La creadora y el origen de Cony's Home; que la marca tenga una persona y una voz | "Entrá conmigo al laboratorio de aromas de Cony's Home" |
 | Atelier / Experiencias | Qué pasa en Armenia 1455; que Instagram lleve gente al local | Talleres, catas |
 
+## Regla de formato
+Patricia **no quiere mostrar su cara todo el tiempo**. El contenido de historia y proceso se hace con su **voz en off, sus manos y el laboratorio**, y ella aparece en cámara solo en momentos puntuales.
+
 ## Qué aporta Alex
 Estrategia digital · redes sociales · creación de contenido · identidad y comunicación · e-commerce · campañas digitales · análisis y crecimiento. El enfoque es una estrategia **sencilla, realista y acorde al tamaño de la marca**.

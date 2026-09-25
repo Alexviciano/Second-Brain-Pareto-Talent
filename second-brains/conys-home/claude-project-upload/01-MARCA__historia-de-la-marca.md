@@ -49,4 +49,3 @@ Este año la marca abrió una sección de posteos dedicados a cada aroma (marzo)
 ## Preguntas abiertas para Patricia
 - ¿De dónde viene el nombre "Cony"? ¿En qué año empezó la marca?
 - ¿Cuál es su formación exacta (biología, química, otra)?
-- ¿Quiere aparecer en cámara?

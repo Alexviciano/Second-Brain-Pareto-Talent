@@ -21,4 +21,5 @@ Estrategia digital, auditoría y contenido.
 - [[estrategia-digital]]: la propuesta de Alex: pilares, embudo, qué aporta
 - [[auditoria-instagram]]: qué funciona y qué no en @conys.home (40 posteos)
 - [[identidad-visual]]: colores y hojas aprobados; sesión de fotos
+- [[competencia]]: Pol French Gallery y otros (sin copiar)
 - [[banco-de-ideas]]: ideas de reels y posteos listas para producir

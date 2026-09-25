@@ -34,3 +34,5 @@ sources:
 | 11 | Serie "Un aroma, un recuerdo": cada aroma con su frase de cierre | Producto | Apuntes |
 | 12 | "Armá tu kit" en video, con el packaging de regalo | Producto | IG 2026-04-28 |
 | 13 | Colaboración mensual con un vecino de La Edina | Atelier | Auditoría |
+| 14 | "Neurociencia del olfato en 30 segundos" (voz en off de Patricia + manos en el laboratorio) | Conocimiento | Apuntes |
+| 15 | Serie "Manos de laboratorio": el proceso sin mostrar la cara, con la voz de Patricia | Proceso | Aclaración |

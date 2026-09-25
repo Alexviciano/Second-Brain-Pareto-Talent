@@ -31,7 +31,7 @@ sources:
 - Productos mencionados: body splash.
 - **Nuevo:** cada aroma con nombre y descripción lleva una **frase de cierre**. Hay que armar una **línea de packs para regalo**.
 
-## Lo que no está claro en las notas (preguntar)
-- "No quiere he de Mar su imagen": ¿no quiere dejar de lado su imagen, o no quiere mostrar su cara?
-- "Nuriciencua": ¿neurociencia? (encaja con "cómo el cerebro capta el aroma").
-- "Pol French gallery": ¿una referencia, un lugar o una marca?
+## Aclaraciones (confirmadas por Alex)
+- "No quiere he de Mar su imagen": **no se siente cómoda mostrando su cara todo el tiempo.** Aparece de forma ocasional. Ver [[voz-de-patricia]].
+- "Nuriciencua": **neurociencia**, es decir, cómo el cerebro capta y recuerda un aroma. Es un eje del contenido de conocimiento.
+- "Pol French gallery": **competidor** con local en Palermo Soho, CABA. Ver [[competencia]]. Se relaciona con "Busco trabajo y no copio".

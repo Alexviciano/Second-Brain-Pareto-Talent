@@ -43,4 +43,5 @@ sources:
 - **Tres generaciones:** su abuela (el "talquito de rosas"), su madre (autodidacta, luchadora) y ella. Mujeres empoderadas. Patricia quiere que su abuela esté presente en la marca.
 
 ## Pendiente de confirmar
-- Origen del nombre "Cony" [a completar] · Año de fundación [a completar] · Si Patricia quiere mostrar su cara en redes (ver [[reunion-patricia-apuntes]]).
+- Origen del nombre "Cony" [a completar] · Año de fundación [a completar].
+- En redes: Patricia **no quiere mostrar su cara todo el tiempo**. Puede aparecer en momentos puntuales, y el resto del contenido va con su voz, sus manos y el proceso (ver [[voz-de-patricia]]).

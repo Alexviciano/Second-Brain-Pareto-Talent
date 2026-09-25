@@ -21,7 +21,15 @@ sources:
 
 > Sale de las notas de la reunión, los posteos y **sus notas de voz transcritas** (sep 2026). Patricia es **argentina** y habla en español rioplatense.
 
+## En cámara (confirmado)
+**No se siente cómoda mostrando su cara todo el tiempo.** Puede aparecer de vez en cuando, en momentos especiales (historia, lanzamientos, eventos), pero no como algo fijo. Para el día a día:
+- **Voz en off** de Patricia sobre imágenes del proceso (su voz es cálida y funciona muy bien)
+- **Manos** trabajando: mezclas, pesaje, vertido de cera, etiquetado
+- Planos de espalda o de perfil en el laboratorio, y detalles de materias primas
+- La **abuela** y los recuerdos, a través de objetos (el talquito de rosas, fotos antiguas si ella quiere)
+
 ## Cómo piensa
+- **Neurociencia del olfato:** le interesa explicar cómo el cerebro capta un aroma y por qué lo asocia a recuerdos (el olfato va directo al centro del cerebro).
 - **Mezcla ciencia y emoción:** explica cómo el cerebro capta un aroma y, en la misma frase, a qué recuerdo te lleva.
 - **Memoria olfativa:** "¿Cómo huelo y me transporto?" Puede no haber ido nunca a un lugar, pero lo lee y le encuentra su aroma (p. ej. **"Noches de palacio"**: Versalles, el Prado, la iglesia de San Jerónimo, el Louvre).
 - **Aromas con nombre de recuerdo:** cada nombre lleva una descripción del aroma, y ahora también una frase de cierre.
@@ -54,5 +62,4 @@ sources:
 - **Evitar:** el español neutro o de España ("vosotros", "tú"), un tono corporativo o frío.
 
 ## Dudas abiertas
-- ¿Quiere mostrar su cara / su imagen en redes? La nota dice "No quiere he de Mar su imagen" y es ambigua: [a confirmar].
 - ¿"Pato" (quien desarrolló "Higo Dulce" para Lab Essence) es Patricia? Muy probable: [a confirmar].
